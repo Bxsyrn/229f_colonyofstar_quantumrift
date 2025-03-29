@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 623ed836789ba8e46a588e5d65ee6b30
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165498
+  packageName: Pixel Platformer Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Art Pack/Scripts/Camera.cs
+  uploadId: 373064

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c49db21e15adc340b71a37d987ea37a, type: 3}
+  m_Name: ShapeBasic
+  m_EditorClassIdentifier: 
+  prefabsToSpawn:
+  - {fileID: 8822665231484570190, guid: 314d0c666ad3772468967a2f2621cd61, type: 3}
+  - {fileID: 5119183132537126477, guid: 22b7c540d9fc73843b8932ef66ec3e09, type: 3}
+  - {fileID: 8183014392406790272, guid: 318be58f8a0936d4fb6eb2ac73744b07, type: 3}
+  - {fileID: 4845345468494600228, guid: f3ba2a803dd83e04484d390d8840bfb7, type: 3}
+  _floorMaterial: {fileID: 2100000, guid: bbb5f0c1ee723c741a12494bb83abb4b, type: 2}
+  _floorMaterialTileX: 20
+  _wallsMaterial: {fileID: 2100000, guid: 84a84161c8b6f284881dd42789c0d4d6, type: 2}
+  _wallsMaterialTileX: 200

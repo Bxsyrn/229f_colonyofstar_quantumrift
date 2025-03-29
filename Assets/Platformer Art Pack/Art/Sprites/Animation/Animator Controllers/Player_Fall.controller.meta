@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ac472724fa47454183929d53c120940
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165498
+  packageName: Pixel Platformer Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Art Pack/Art/Sprites/Animation/Animator Controllers/Player_Fall.controller
+  uploadId: 373064

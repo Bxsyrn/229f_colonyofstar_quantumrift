@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ab3529478bcc94b4d83c2a345add0c85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165498
+  packageName: Pixel Platformer Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Art Pack/Scripts/PlayerPlatformerController.cs
+  uploadId: 373064

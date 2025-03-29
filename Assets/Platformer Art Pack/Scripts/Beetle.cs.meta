@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8f0446b32a7cba34da352bf85c4d51fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165498
+  packageName: Pixel Platformer Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Art Pack/Scripts/Beetle.cs
+  uploadId: 373064

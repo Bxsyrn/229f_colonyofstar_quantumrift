@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17c361df4d5143a41b52a6f498575ded
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165498
+  packageName: Pixel Platformer Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Art Pack/Art/Sprites/Animation/Animations/Player_Fall.anim
+  uploadId: 373064

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c12a0e49a8733ed48a179681df22e097
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165498
+  packageName: Pixel Platformer Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Art Pack/Art/Sprites/Animation/Animator Controllers/Flag_green.controller
+  uploadId: 373064

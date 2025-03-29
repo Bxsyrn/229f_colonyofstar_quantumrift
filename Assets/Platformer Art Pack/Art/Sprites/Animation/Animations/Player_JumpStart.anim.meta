@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f31681632c07d8c46aeca410201e8d4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165498
+  packageName: Pixel Platformer Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Art Pack/Art/Sprites/Animation/Animations/Player_JumpStart.anim
+  uploadId: 373064

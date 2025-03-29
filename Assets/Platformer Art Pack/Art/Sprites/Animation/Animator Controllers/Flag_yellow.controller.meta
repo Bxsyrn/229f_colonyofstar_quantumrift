@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8f6347ef82332447bc694e97cd0ab2a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165498
+  packageName: Pixel Platformer Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Art Pack/Art/Sprites/Animation/Animator Controllers/Flag_yellow.controller
+  uploadId: 373064
