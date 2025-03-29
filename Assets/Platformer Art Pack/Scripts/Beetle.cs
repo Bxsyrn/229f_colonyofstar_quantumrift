@@ -14,7 +14,7 @@ public class Beetle : MonoBehaviour
     {
         beetleRb = GetComponent<Rigidbody2D>();
         spriteRend = GetComponent<SpriteRenderer>();
-        beetleRb.velocity = new Vector2 (xVelocity, 0);
+        beetleRb.linearVelocity = new Vector2 (xVelocity, 0);
         castDir = Vector2.right;
     }
 
@@ -25,7 +25,7 @@ public class Beetle : MonoBehaviour
         if (hit.collider != null && (hit.collider.tag != ("Player")))
         {
             spriteRend.transform.localScale = new Vector3(-spriteRend.transform.localScale.x, 1, 1);
-            beetleRb.velocity *= -1;
+            beetleRb.linearVelocity *= -1;
             castDir.x *= -1;
         }
     }
